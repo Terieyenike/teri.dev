@@ -1,4 +1,4 @@
-v 1.0.0 Teri Eyenike
+v 1.0.0 [Teri Eyenike](https://teri.netlify.app/)
 
 This is the source code for my personal website. It is built entirely from create react app (CRA).
 
