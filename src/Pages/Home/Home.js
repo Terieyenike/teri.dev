@@ -135,7 +135,7 @@ const Home = () => {
               <TextF>Social connect</TextF>
               <div>
                 <a
-                  href='https://github.com/terieyenike/eyenike.dev'
+                  href='https://github.com/terieyenike/terieyenike.dev'
                   target='_blank'
                   rel='noopener noreferrer'>
                   <span>
