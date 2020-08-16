@@ -66,7 +66,7 @@ export const NavLogoWrapper = styled.div`
 `;
 
 export const LinkWrapper = styled.nav`
-  height: ${({ open }) => (open ? '90px' : '0px')};
+  height: ${({ open }) => (open ? '110px' : '0px')};
   overflow: hidden;
   transition: all 1s ease-in-out;
   margin-top: 1em;
