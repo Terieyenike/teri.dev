@@ -52,7 +52,7 @@ const Home = () => {
             </p>
             <p>
               If I'm not coding, I'm likely shooting with my camera as a street
-              photography (I'm a huge art enthusiast) creating moments in
+              photographer (I'm a huge art enthusiast) creating moments in
               pixels.
             </p>
             <p>
