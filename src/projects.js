@@ -23,7 +23,7 @@ const projects = [
     id: 2,
     title: 'Subscribe to email list',
     description:
-      'Landing page where users can enter their information to subscribe to a newsletter. The app was created and made use of MailChimp API lists endpoint to fetch its data.',
+      'Landing page where users can enter their information to subscribe to a newsletter. The app made use of MailChimp API lists endpoint to fetch its data.',
     image:
       'https://res.cloudinary.com/codeg0d/image/upload/v1597534987/portfolio%20website/newsletter_kxgye7.jpg',
     link: 'https://protected-mesa-35829.herokuapp.com/',

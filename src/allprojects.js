@@ -23,7 +23,7 @@ const projects = [
     id: 2,
     title: 'Subscribe to email list',
     description:
-      'Landing page where users can enter their information to subscribe to a newsletter. The app was created and made use of MailChimp API lists endpoint to fetch its data.',
+      'Landing page where users can enter their information to subscribe to a newsletter. The app made use of MailChimp API lists endpoint to fetch its data.',
     image:
       'https://res.cloudinary.com/codeg0d/image/upload/v1597534987/portfolio%20website/newsletter_kxgye7.jpg',
     link: 'https://protected-mesa-35829.herokuapp.com/',
@@ -52,7 +52,7 @@ const projects = [
     id: 5,
     title: 'Vue Unsplash',
     description:
-      'You can search for photos from the collection of photos from the Unsplash library.',
+      'You can search collection of photos from the Unsplash.',
     image:
       'https://res.cloudinary.com/codeg0d/image/upload/v1597534988/portfolio%20website/unsplash-vue_burtlr.jpg',
     link: 'https://unsplash-vue.netlify.app/',
