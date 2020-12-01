@@ -113,7 +113,7 @@ const Home = () => {
               <Title>Contact</Title>
 
               <a
-                href='mailto:teyenike1@gmail.com?subject=Work with me'
+                href='mailto:developedbyteri@gmail.com?subject=Work with me'
                 rel='noopener noreferrer'>
                 hire me
               </a>
