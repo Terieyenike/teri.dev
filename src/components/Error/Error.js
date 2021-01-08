@@ -10,7 +10,7 @@ const Error = () => {
         <Container>
           <Div>
             <h1>404</h1>
-            <p className='not-found'>Page not found</p>
+            <p className='not-found'>Page not found.</p>
 
             <p>
               Teri is a software engineer based in Lagos, Nigeria. Want to find

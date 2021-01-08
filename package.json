@@ -1,6 +1,6 @@
 {
-  "name": "teri-eyenike",
   "homepage": "https://terieyenike.github.io/v1",
+  "name": "teri-eyenike",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
