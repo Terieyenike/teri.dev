@@ -4,7 +4,7 @@ import Navbar from './components/Navbar';
 import GlobalStyle from './GlobalStyle';
 import Home from './Pages/Home';
 import Projects from './Pages/Projects';
-
+import Error from './components/Error/Error';
 function App() {
   return (
     <>
@@ -13,6 +13,7 @@ function App() {
       <Switch>
         <Route path='/' exact component={Home} />
         <Route path='/projects' component={Projects} />
+        <Route component={Error} />
       </Switch>
     </>
   );
